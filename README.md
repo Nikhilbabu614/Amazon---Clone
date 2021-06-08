@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Basic Overview of the Project
+Technologies - React , Context Api ,firebase Authentication and hosting
+checkout site here : https://clone-94275.web.app/
+# Home Page --
+![Screenshot (35)](https://user-images.githubusercontent.com/83503956/121163641-982c5f00-c86c-11eb-8b59-5d213611ed70.png)
+# Checkout-Cart Page --
+![Screenshot (37)](https://user-images.githubusercontent.com/83503956/121163744-aaa69880-c86c-11eb-9042-f640c79b1f68.png)
+# Authentication ---
+![Screenshot (36)](https://user-images.githubusercontent.com/83503956/121163793-b5612d80-c86c-11eb-8c80-f1a5b5d6a7c6.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
