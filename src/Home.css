@@ -1,0 +1,15 @@
+.home_image{
+  margin-bottom:-300px !important;
+}
+
+/* .mainhome{
+     z-index: -1;
+    margin-bottom: -200px !important;
+} */
+
+.home_row{
+    display: flex;
+    /* flex-wrap: wrap; */
+    margin: 5px;
+    z-index: 1;
+}

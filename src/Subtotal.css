@@ -1,0 +1,15 @@
+.subtotal{
+    display: flex;
+    flex-direction: column;
+}
+
+.subtotal_icon{
+    color:#077E63;
+}
+
+.subtotal_button{
+    margin-top: 10px;
+    border:1px;
+    background-color: #F7CA00;
+    border-radius: 10px;
+}

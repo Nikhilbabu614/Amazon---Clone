@@ -1,0 +1,24 @@
+.basket {
+    display: flex;
+    flex-direction: column;
+    flex:0.7;
+}
+
+.checkout{
+    display: flex;
+}
+
+.total{
+    flex:0.3;
+    margin-top: 80px;
+    padding: 20px;
+    height: 200px;
+    background-color: white;
+}
+
+.basket > h2 {
+    color: black;
+    margin-right: auto;
+    margin-left:20px;
+    margin-bottom: 20px;
+}
